@@ -2,9 +2,10 @@
 Convolutional Neural Networks for Digits Image recognition using Keras and TensorFlow.
 ------------------------------------------------------------------------------------------
 
-Model evaluation with 12 epochs and batch size 128 :-
-Using TensorFlow backend.
 
+Model evaluation with 12 epochs and batch size 128 :-
+
+    Using TensorFlow backend.
     Train on 60000 samples, validate on 10000 samples
     Epoch 1/12
     - 116s - loss: 0.5297 - acc: 0.8317 - val_loss: 0.0881 - val_acc: 0.9717
